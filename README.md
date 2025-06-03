@@ -43,6 +43,31 @@ Link to pronunciation on Forvo (when available)
 | rápido | 快 (kuài) | kuái | [🔊](https://forvo.com/word/快/#zh) |
 | lento | 慢 (màn) | mán | [🔊](https://forvo.com/word/慢/#zh) |
 
+### Frases simples en chino
+
+**我工作很多。 (wǒ gōngzuò hěn duō)**  
+Yo trabajo mucho.  
+Fonética: uó góng-zúo jen túo
+
+**你需要帮助。 (nǐ xūyào bāngzhù)**  
+Tú necesitas ayuda.  
+Fonética: ní shüi-iáo páng-chú
+
+**他很友好。 (tā hěn yǒuhǎo)**  
+Él es amable.  
+Fonética: tá jen yóu-jao
+
+**我们喜欢房子。 (wǒmen xǐhuān fángzi)**  
+Nosotros queremos la casa.  
+Fonética: uó-men shi-jüán fang-zi
+
+**你们说得很好。 (nǐmen shuō de hěn hǎo)**  
+Ustedes hablan bien.  
+Fonética: ní-men shúo de jen jao
+
+**他们应该学习。 (tāmen yīnggāi xuéxí)**  
+Ellos deben aprender.  
+Fonética: tá-men ín-gái shué-shí
 # 🇵🇹 Portugués
 
 ## Pronombres Personales
@@ -76,6 +101,31 @@ Link to pronunciation on Forvo (when available)
 | rápido | rápido | rá-pi-du | [🔊](https://forvo.com/word/rápido/#pt) |
 | lento | lento | lén-tu | [🔊](https://forvo.com/word/lento/#pt) |
 
+### Frases simples en portugués
+
+**Eu trabalho muito.**  
+Yo trabajo mucho.  
+Fonética: éu tra-bá-lio múi-tu
+
+**Tu precisas de ajuda.**  
+Tú necesitas ayuda.  
+Fonética: tu pre-sí-zas dʒe a-yú-da
+
+**Ele é gentil.**  
+Él es amable.  
+Fonética: é-li é yhen-chíl
+
+**Nós queremos a casa.**  
+Nosotros queremos la casa.  
+Fonética: nóis ke-ré-mos a ká-za
+
+**Vocês falam bem.**  
+Ustedes hablan bien.  
+Fonética: vo-sés fá-lam bẽi
+
+**Eles devem aprender.**  
+Ellos deben aprender.  
+Fonética: é-les dé-vem a-pren-der
 
 # 🇫🇷 Francés
 
@@ -110,6 +160,34 @@ Link to pronunciation on Forvo (when available)
 | rápido | rapide | ra-píd | [🔊](https://forvo.com/word/rapide/#fr) |
 | lento | lent | lán | [🔊](https://forvo.com/word/lent/#fr) |
 
+
+### Frases simples en francés
+
+**Je travaille beaucoup.**  
+Yo trabajo mucho.  
+Fonética: yə tra-vái bo-ku
+
+**Tu as besoin d'aide.**  
+Tú necesitas ayuda.  
+Fonética: tu a bə-suán ded
+
+**Il est gentil.**  
+Él es amable.  
+Fonética: il e yã-ti
+
+**Nous aimons la maison.**  
+Nosotros queremos la casa.  
+Fonética: nu zé-mon la me-son
+
+**Vous parlez bien.**  
+Ustedes hablan bien.  
+Fonética: vu parlé bián
+
+**Ils doivent apprendre.**  
+Ellos deben aprender.  
+Fonética: il duáv aprãdr
+
+
 # 🇩🇪 Alemán
 
 ## Pronombres Personales
@@ -142,3 +220,31 @@ Link to pronunciation on Forvo (when available)
 | pequeño | klein | klain | [🔊](https://forvo.com/word/klein/#de) |
 | rápido | schnell | shnel | [🔊](https://forvo.com/word/schnell/#de) |
 | lento | langsam | lán-zam | [🔊](https://forvo.com/word/langsam/#de) |
+
+
+### Frases simples en alemán
+
+**Ich arbeite viel.**  
+Yo trabajo mucho.  
+Fonética: ij ár-bai-te fil
+
+**Du brauchst Hilfe.**  
+Tú necesitas ayuda.  
+Fonética: du braujst jil-fe
+
+**Er ist nett.**  
+Él es amable.  
+Fonética: ea ist net
+
+**Wir mögen das Haus.**  
+Nosotros queremos la casa.  
+Fonética: fia mó-guen das jaus
+
+**Ihr sprecht gut.**  
+Ustedes hablan bien.  
+Fonética: ia shprejt gut
+
+**Sie müssen lernen.**  
+Ellos deben aprender.  
+Fonética: zi miu-sen leár-nen
+
