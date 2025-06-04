@@ -14,15 +14,21 @@ Link to pronunciation on Forvo (when available)
 
 | Pronombres | Fonética |  Verbos| Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
 |-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
-| 我   |   uó     [🔊 我](https://forvo.com/word/%E6%88%91/)   | 想    | shiáng    [🔊 想](https://forvo.com/word/%E6%83%B3/)  | 大 (dà) | tà  [🔊](https://forvo.com/word/大/#zh) |学校 | shué-xiào  [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
-| 你    | ní        [🔊 你](https://forvo.com/word/%E4%BD%A0/)  | 需要  | shiú-yáo  [🔊 需要](https://forvo.com/word/%E9%9C%80%E8%A6%81/) | 小 (xiǎo) | shiáo  [🔊](https://forvo.com/word/小/#zh) |  工作 | gōng-zuò  [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
-| 他    | tá       [🔊 他](https://forvo.com/word/%E4%BB%96/) | 应该  | íng-gái   [🔊 应该](https://forvo.com/word/%E5%BA%94%E8%AF%A5/)  | 快 (kuài) | kuái  [🔊](https://forvo.com/word/快/#zh) |  家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
-| 她    | tá        [🔊 她](https://forvo.com/word/%E5%A5%B9/)  | 得    | déi       [🔊 得](https://forvo.com/word/%E5%BE%97/) | 慢 (màn) | mán  [🔊](https://forvo.com/word/慢/#zh) |  超市 | chāo-shì  [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
-| 我们  | uó-men    [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/)   | 可以  | kó-yi     [🔊 可以](https://forvo.com/word/%E5%8F%AF%E4%BB%A5/) |||  公园 | gōng-yuán  [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
-| 你们  | ní-men    [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) | ||||  医院 | yī-yuàn  [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
-| 他们  | tá-men    [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |||||
+| 我  (wǒ) |   uó     [🔊 我](https://forvo.com/word/%E6%88%91/)   | 想    | shiáng    [🔊 想](https://forvo.com/word/%E6%83%B3/)  | 大 (dà) | tà  [🔊](https://forvo.com/word/大/#zh) |学校 | shué-xiào  [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
+| 你  (nǐ)  | ní        [🔊 你](https://forvo.com/word/%E4%BD%A0/)  | 需要  | shiú-yáo  [🔊 需要](https://forvo.com/word/%E9%9C%80%E8%A6%81/) | 小 (xiǎo) | shiáo  [🔊](https://forvo.com/word/小/#zh) |  工作 | gōng-zuò  [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
+| 他  (tā)  | tá       [🔊 他](https://forvo.com/word/%E4%BB%96/) | 应该  | íng-gái   [🔊 应该](https://forvo.com/word/%E5%BA%94%E8%AF%A5/)  | 快 (kuài) | kuái  [🔊](https://forvo.com/word/快/#zh) |  家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
+| 她  (tā)  | tá        [🔊 她](https://forvo.com/word/%E5%A5%B9/)  | 得    | déi       [🔊 得](https://forvo.com/word/%E5%BE%97/) | 慢 (màn) | mán  [🔊](https://forvo.com/word/慢/#zh) |  超市 | chāo-shì  [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
+| 我们  (wǒmen) | uó-men    [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/)   | 可以  | kó-yi     [🔊 可以](https://forvo.com/word/%E5%8F%AF%E4%BB%A5/) |||  公园 | gōng-yuán  [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
+| 你们 (nǐmen)| ní-men    [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) | ||||  医院 | yī-yuàn  [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
+| 他们  (tāmen)| tá-men    [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |||||
 
 
+Complemento de Tiempo
+今天 (jīntiān, chín tién) "hoy"
+
+明天 (míngtiān, míng tién) "mañana"
+
+昨天 (zuótiān, zuó tién) "ayer"
 
 # 🇨🇳 Chino (Mandarín)
 
@@ -30,13 +36,13 @@ Link to pronunciation on Forvo (when available)
 
 | Español   | Chino | Fonética | Pronunciación Forvo |
 |-----------|-------|----------|---------------------|
-| yo        | 我    | uó       | [🔊 我](https://forvo.com/word/%E6%88%91/) |
-| tú        | 你    | ní       | [🔊 你](https://forvo.com/word/%E4%BD%A0/) |
-| él        | 他    | tá       | [🔊 他](https://forvo.com/word/%E4%BB%96/) |
-| ella      | 她    | tá       | [🔊 她](https://forvo.com/word/%E5%A5%B9/) |
-| nosotros  | 我们  | uó-men   | [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/) |
-| vosotros  | 你们  | ní-men   | [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) |
-| ellos     | 他们  | tá-men   | [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |
+| yo        | 我  (wǒ)    | uó       | [🔊 我](https://forvo.com/word/%E6%88%91/) |
+| tú        | 你    (nǐ) | ní       | [🔊 你](https://forvo.com/word/%E4%BD%A0/) |
+| él        | 他   (tā)   | tá       | [🔊 他](https://forvo.com/word/%E4%BB%96/) |
+| ella      | 她    (tā)  | tá       | [🔊 她](https://forvo.com/word/%E5%A5%B9/) |
+| nosotros  | 我们 (wǒmen)| uó-men   | [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/) |
+| vosotros  | 你们 (nǐmen) | ní-men   | [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) |
+| ellos     | 他们   (tāmen)| tá-men   | [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |
 
 ## Verbos Comunes
 
@@ -115,6 +121,12 @@ Fonética: tá-men ín-gái shué-shí
 | nós | nôs       [🔊 nós](https://forvo.com/word/nós/) |  poder     | po-dér    [🔊 poder](https://forvo.com/word/poder/) |||parque | par-ki | [🔊](https://forvo.com/word/parque/#pt) |
 | vocês | voséis    [🔊 vocês](https://forvo.com/word/voc%C3%AAs/) | || hospital | os-pi-tal | [🔊](https://forvo.com/word/hospital/#pt) |
 | eles | é-les     [🔊 eles](https://forvo.com/word/eles/) |||||||
+
+
+Complemento de tiempo (hoje, amanhã, ontem)
+hoje (óji) "hoy"  [🔊 hoje](https://forvo.com/word/hoje/)
+amanhã (amãñá) "mañana"  [🔊 amanhã](https://forvo.com/word/amanhã/)
+ontem (óten) "ayer"  [🔊 ontem ](https://forvo.com/word/ontem/)
 
 ## Pronombres Personales
 
@@ -219,6 +231,12 @@ Fonética: é-les dé-vem a-pren-der
 |nous    | nú        [🔊 nous](https://forvo.com/word/nous/) |pouvoir | puvuar     [🔊 pouvoir](https://forvo.com/word/pouvoir/) | ||parc | park  [🔊](https://forvo.com/word/parc/#fr) |hôpital | o-pi-tal  [🔊](https://forvo.com/word/h%C3%B4pital/#fr) |
 | vous    | vú        [🔊 vous](https://forvo.com/word/vous/) |||||
 | ils     | il        [🔊 ils](https://forvo.com/word/ils/) |||||
+
+Complemento de tiempo (aujourd'hui, demain, hier)
+
+aujourd'hui (oʒurdɥi) "hoy" [🔊 aujourd'hui](https://forvo.com/word/aujourd'hui/) |
+demain (dəmain) "mañana" [🔊 demain](https://forvo.com/word/demain/) |
+hier (jɛr) "ayer" [🔊 hier](https://forvo.com/word/hier/) |
 ## Pronombres Personales
 
 | Español   | Francés | Fonética | Pronunciación Forvo |
@@ -324,6 +342,11 @@ Fonética: il duáv aprãdr
 
 
 # 🇩🇪 Alemán
+Complemento de tiempo (heute, morgen, gestern)
+heute (hóite) "hoy"  [🔊 heute](https://forvo.com/word/heute/) 
+morgen (mórguen) "mañana" [🔊 morgen](https://forvo.com/word/morgen/) 
+gestern (géstern) "ayer" [🔊 gestern ](https://forvo.com/word/gestern/) 
+
 | Pronombres | Fonética |  verbos | Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
 |-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
 | ich    | ij        [🔊 ich](https://forvo.com/word/ich/) |wollen | vó-len     [🔊 wollen](https://forvo.com/word/wollen/) |groß | gros [🔊](https://forvo.com/word/gro%C3%9F/#de) |Schule | shú-le  [🔊](https://forvo.com/word/schule/#de) |
