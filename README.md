@@ -12,6 +12,20 @@ Link to pronunciation on Forvo (when available)
 
 # 🇨🇳 Chino (Mandarín)
 
+| Pronombres | Fonética |  Verbos| Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
+|-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
+| 我   |   uó     [🔊 我](https://forvo.com/word/%E6%88%91/)   | 想    | shiáng    [🔊 想](https://forvo.com/word/%E6%83%B3/)  | 大 (dà) | tà  [🔊](https://forvo.com/word/大/#zh) |学校 | shué-xiào  [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
+| 你    | ní        [🔊 你](https://forvo.com/word/%E4%BD%A0/)  | 需要  | shiú-yáo  [🔊 需要](https://forvo.com/word/%E9%9C%80%E8%A6%81/) | 小 (xiǎo) | shiáo  [🔊](https://forvo.com/word/小/#zh) |  工作 | gōng-zuò  [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
+| 他    | tá       [🔊 他](https://forvo.com/word/%E4%BB%96/) | 应该  | íng-gái   [🔊 应该](https://forvo.com/word/%E5%BA%94%E8%AF%A5/)  | 快 (kuài) | kuái  [🔊](https://forvo.com/word/快/#zh) |  家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
+| 她    | tá        [🔊 她](https://forvo.com/word/%E5%A5%B9/)  | 得    | déi       [🔊 得](https://forvo.com/word/%E5%BE%97/) | 慢 (màn) | mán  [🔊](https://forvo.com/word/慢/#zh) |  超市 | chāo-shì  [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
+| 我们  | uó-men    [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/)   | 可以  | kó-yi     [🔊 可以](https://forvo.com/word/%E5%8F%AF%E4%BB%A5/) |||  公园 | gōng-yuán  [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
+| 你们  | ní-men    [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) | ||||  医院 | yī-yuàn  [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
+| 他们  | tá-men    [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |||||
+
+
+
+# 🇨🇳 Chino (Mandarín)
+
 ## Pronombres Personales
 
 | Español   | Chino | Fonética | Pronunciación Forvo |
@@ -42,11 +56,22 @@ Link to pronunciation on Forvo (when available)
 | pequeño | 小 (xiǎo) | shiáo | [🔊](https://forvo.com/word/小/#zh) |
 | rápido | 快 (kuài) | kuái | [🔊](https://forvo.com/word/快/#zh) |
 | lento | 慢 (màn) | mán | [🔊](https://forvo.com/word/慢/#zh) |
+
+
+# Lugares comunes en Chino
+
+| Español | Chino | Fonética | Pronunciación |
+|---------|--------|----------|----------------|
+| escuela | 学校 | shué-xiào | [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
+| trabajo | 工作 | gōng-zuò | [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
+| casa | 家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
+| supermercado | 超市 | chāo-shì | [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
+| parque | 公园 | gōng-yuán | [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
+| hospital | 医院 | yī-yuàn | [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
+
 Regla de conjugación: En chino los verbos no se conjugan;
 
 
-
-Regla de conjugación: Verbos en -ar. Se elimina -ar y se añade:
 
 ### Frases simples en chino
 
@@ -73,7 +98,23 @@ Fonética: ní-men shúo de jen jao
 **他们应该学习。 (tāmen yīnggāi xuéxí)**  
 Ellos deben aprender.  
 Fonética: tá-men ín-gái shué-shí
+
+
+
+
+
 # 🇵🇹 Portugués
+
+
+| Pronombres | Fonética |  verbos | Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
+|-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
+| eu         éu        [🔊 eu](https://forvo.com/word/eu/) | querer    | que-rér    [🔊 querer](https://forvo.com/word/querer/) |grande | grán-ji  [🔊](https://forvo.com/word/grande/#pt) |escola | es-kó-la | [🔊](https://forvo.com/word/escola/#pt) |
+| tu         tú        [🔊 tu](https://forvo.com/word/tu/) | precisar  | pre-si-sár [🔊 precisar](https://forvo.com/word/precisar/) |pequeno | pe-ké-nu  [🔊](https://forvo.com/word/pequeno/#pt) | trabalho | tra-ba-lyu | [🔊](https://forvo.com/word/trabalho/#pt) |
+ | ele | é-le      [🔊 ele](https://forvo.com/word/ele/) |dever     | de-vér     [🔊 dever](https://forvo.com/word/dever/) | rápido | rá-pi-du  [🔊](https://forvo.com/word/rápido/#pt) | casa | ka-za | [🔊](https://forvo.com/word/casa/#pt) |
+ | ela       | é-la     [🔊 ela](https://forvo.com/word/ela/) |ter que   | tér-que    [🔊 ter que](https://forvo.com/word/ter_que/) |lento | lén-tu  [🔊](https://forvo.com/word/lento/#pt) |supermercado | su-per-mer-ka-du | [🔊](https://forvo.com/word/supermercado/#pt) |
+| nós | nôs       [🔊 nós](https://forvo.com/word/nós/) |  poder     | po-dér    [🔊 poder](https://forvo.com/word/poder/) |||parque | par-ki | [🔊](https://forvo.com/word/parque/#pt) |
+| vocês | voséis    [🔊 vocês](https://forvo.com/word/voc%C3%AAs/) | || hospital | os-pi-tal | [🔊](https://forvo.com/word/hospital/#pt) |
+| eles | é-les     [🔊 eles](https://forvo.com/word/eles/) |||||||
 
 ## Pronombres Personales
 
@@ -107,6 +148,18 @@ Fonética: tá-men ín-gái shué-shí
 | lento | lento | lén-tu | [🔊](https://forvo.com/word/lento/#pt) |
 
 
+# Lugares comunes en Portugués
+
+| Español | Portugués | Fonética | Pronunciación |
+|---------|--------|----------|----------------|
+| escuela | escola | es-kó-la | [🔊](https://forvo.com/word/escola/#pt) |
+| trabajo | trabalho | tra-ba-lyu | [🔊](https://forvo.com/word/trabalho/#pt) |
+| casa | casa | ka-za | [🔊](https://forvo.com/word/casa/#pt) |
+| supermercado | supermercado | su-per-mer-ka-du | [🔊](https://forvo.com/word/supermercado/#pt) |
+| parque | parque | par-ki | [🔊](https://forvo.com/word/parque/#pt) |
+| hospital | hospital | os-pi-tal | [🔊](https://forvo.com/word/hospital/#pt) |
+
+
 Portugués – Conjugación de verbos comunes
 Verbo: ser (ser permanente)
 Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
@@ -116,6 +169,10 @@ ele/ela	é	é	🔊
 nós	somos	sô-mos	🔊
 vós	sois	sóis	🔊
 eles/elas	são	sâo	🔊
+
+
+
+Regla de conjugación: Verbos en -ar. Se elimina -ar y se añade:
 
 Verbo: estar (ser temporal)
 Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
@@ -153,6 +210,15 @@ Fonética: é-les dé-vem a-pren-der
 
 # 🇫🇷 Francés
 
+| Pronombres | Fonética |  verbos | Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
+|-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
+|  je      | yé        [🔊 je](https://forvo.com/word/je/) |vouloir | vú-luar    [🔊 vouloir](https://forvo.com/word/vouloir/) | grand | grán  [🔊](https://forvo.com/word/grand/#fr) | école | é-kol [🔊](https://forvo.com/word/%C3%A9cole/#fr) |
+|  tu      | tú       [🔊 tu](https://forvo.com/word/tu/) |avoir besoin | avuá bésuan  [🔊 avoir besoin](https://forvo.com/word/avoir_besoin/) |petit | pe-tí  [🔊](https://forvo.com/word/petit/#fr) | travail | tra-vái  [🔊](https://forvo.com/word/travail/#fr) |
+| il      | il        [🔊 il](https://forvo.com/word/il/) |devoir  | devuár     [🔊 devoir](https://forvo.com/word/devoir/) | rapide | ra-píd  [🔊](https://forvo.com/word/rapide/#fr) | maison | mé-son  [🔊](https://forvo.com/word/maison/#fr) |
+|  elle    | él       [🔊 elle](https://forvo.com/word/elle/) | devoir  | devuár     [🔊 devoir](https://forvo.com/word/devoir/) |lent | lán  [🔊](https://forvo.com/word/lent/#fr) |supermarché | su-per-mar-shé  [🔊](https://forvo.com/word/supermarch%C3%A9/#fr) |
+|nous    | nú        [🔊 nous](https://forvo.com/word/nous/) |pouvoir | puvuar     [🔊 pouvoir](https://forvo.com/word/pouvoir/) | ||parc | park  [🔊](https://forvo.com/word/parc/#fr) |hôpital | o-pi-tal  [🔊](https://forvo.com/word/h%C3%B4pital/#fr) |
+| vous    | vú        [🔊 vous](https://forvo.com/word/vous/) |||||
+| ils     | il        [🔊 ils](https://forvo.com/word/ils/) |||||
 ## Pronombres Personales
 
 | Español   | Francés | Fonética | Pronunciación Forvo |
@@ -183,6 +249,17 @@ Fonética: é-les dé-vem a-pren-der
 | pequeño | petit | pe-tí | [🔊](https://forvo.com/word/petit/#fr) |
 | rápido | rapide | ra-píd | [🔊](https://forvo.com/word/rapide/#fr) |
 | lento | lent | lán | [🔊](https://forvo.com/word/lent/#fr) |
+
+# Lugares comunes en Francés
+
+| Español | Francés | Fonética | Pronunciación |
+|---------|--------|----------|----------------|
+| escuela | école | é-kol | [🔊](https://forvo.com/word/%C3%A9cole/#fr) |
+| trabajo | travail | tra-vái | [🔊](https://forvo.com/word/travail/#fr) |
+| casa | maison | mé-son | [🔊](https://forvo.com/word/maison/#fr) |
+| supermercado | supermarché | su-per-mar-shé | [🔊](https://forvo.com/word/supermarch%C3%A9/#fr) |
+| parque | parc | park | [🔊](https://forvo.com/word/parc/#fr) |
+| hospital | hôpital | o-pi-tal | [🔊](https://forvo.com/word/h%C3%B4pital/#fr) |
 
 Francés – Conjugación de verbos comunes
 Verbo: être (ser/estar)
@@ -247,7 +324,15 @@ Fonética: il duáv aprãdr
 
 
 # 🇩🇪 Alemán
-
+| Pronombres | Fonética |  verbos | Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
+|-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
+| ich    | ij        [🔊 ich](https://forvo.com/word/ich/) |wollen | vó-len     [🔊 wollen](https://forvo.com/word/wollen/) |groß | gros [🔊](https://forvo.com/word/gro%C3%9F/#de) |Schule | shú-le  [🔊](https://forvo.com/word/schule/#de) |
+| du     | dú        [🔊 du](https://forvo.com/word/du/) |brauchen | bráu-jen  [🔊 brauchen](https://forvo.com/word/brauchen/) |klein | klain  [🔊](https://forvo.com/word/klein/#de) |Arbeit | ar-bait  [🔊](https://forvo.com/word/arbeit/#de) |
+| er     | éa        [🔊 er](https://forvo.com/word/er/) |sollen | zó-len      [🔊 sollen](https://forvo.com/word/sollen/) | schnell | shnel  [🔊](https://forvo.com/word/schnell/#de) |Haus | haus  [🔊](https://forvo.com/word/haus/#de) |
+| sie    | síe       [🔊 sie](https://forvo.com/word/sie/) |müssen | miú-sen     [🔊 müssen](https://forvo.com/word/müssen/) |langsam | lán-zam  [🔊](https://forvo.com/word/langsam/#de) |Supermarkt | zú-per-markt [🔊](https://forvo.com/word/supermarkt/#de) |
+| wir    | vír       [🔊 wir](https://forvo.com/word/wir/) | dürfen | dûr-fen     [🔊 dürfen](https://forvo.com/word/dürfen/) |||Park | park  [🔊](https://forvo.com/word/park/#de) |
+| ihr    | íar       [🔊 ihr](https://forvo.com/word/ihr/) || | ||Krankenhaus | kran-ken-haus  [🔊](https://forvo.com/word/krankenhaus/#de) |
+| sie    | síe       [🔊 sie](https://forvo.com/word/sie/) |||||||||
 ## Pronombres Personales
 
 | Español   | Alemán | Fonética | Pronunciación Forvo |
@@ -279,6 +364,17 @@ Fonética: il duáv aprãdr
 | rápido | schnell | shnel | [🔊](https://forvo.com/word/schnell/#de) |
 | lento | langsam | lán-zam | [🔊](https://forvo.com/word/langsam/#de) |
 
+
+# Lugares comunes en Alemán
+
+| Español | Alemán | Fonética | Pronunciación |
+|---------|--------|----------|----------------|
+| escuela | Schule | shú-le | [🔊](https://forvo.com/word/schule/#de) |
+| trabajo | Arbeit | ar-bait | [🔊](https://forvo.com/word/arbeit/#de) |
+| casa | Haus | haus | [🔊](https://forvo.com/word/haus/#de) |
+| supermercado | Supermarkt | zú-per-markt | [🔊](https://forvo.com/word/supermarkt/#de) |
+| parque | Park | park | [🔊](https://forvo.com/word/park/#de) |
+| hospital | Krankenhaus | kran-ken-haus | [🔊](https://forvo.com/word/krankenhaus/#de) |
 
 Regla de conjugación: El verbo termina en -en. Se elimina -en y se añade la terminación personal:
 -e, -est, -et, -en, -et, -en.
