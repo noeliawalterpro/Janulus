@@ -14,12 +14,12 @@ Link to pronunciation on Forvo (when available)
 
 | Pronombres | Fonética |  Verbos| Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
 |-------|----------|---------------------|--------------------|---------------------|--------------------|---------------------|--------------------|
-| 我  (wǒ) |   uó     [🔊 我](https://forvo.com/word/%E6%88%91/)   | 想    | shiáng    [🔊 想](https://forvo.com/word/%E6%83%B3/)  | 大 (dà) | tà  [🔊](https://forvo.com/word/大/#zh) |学校 | shué-xiào  [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
-| 你  (nǐ)  | ní        [🔊 你](https://forvo.com/word/%E4%BD%A0/)  | 需要  | shiú-yáo  [🔊 需要](https://forvo.com/word/%E9%9C%80%E8%A6%81/) | 小 (xiǎo) | shiáo  [🔊](https://forvo.com/word/小/#zh) |  工作 | gōng-zuò  [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
-| 他  (tā)  | tá       [🔊 他](https://forvo.com/word/%E4%BB%96/) | 应该  | íng-gái   [🔊 应该](https://forvo.com/word/%E5%BA%94%E8%AF%A5/)  | 快 (kuài) | kuái  [🔊](https://forvo.com/word/快/#zh) |  家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
-| 她  (tā)  | tá        [🔊 她](https://forvo.com/word/%E5%A5%B9/)  | 得    | déi       [🔊 得](https://forvo.com/word/%E5%BE%97/) | 慢 (màn) | mán  [🔊](https://forvo.com/word/慢/#zh) |  超市 | chāo-shì  [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
-| 我们  (wǒmen) | uó-men    [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/)   | 可以  | kó-yi     [🔊 可以](https://forvo.com/word/%E5%8F%AF%E4%BB%A5/) |||  公园 | gōng-yuán  [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
-| 你们 (nǐmen)| ní-men    [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) | ||||  医院 | yī-yuàn  [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
+| 我  (wǒ) |   uó     [🔊 我](https://forvo.com/word/%E6%88%91/)   | 想  (xiǎng)  | shiáng    [🔊 想](https://forvo.com/word/%E6%83%B3/)  | 大 (dà) | tà  [🔊](https://forvo.com/word/大/#zh) |学校 | shué-xiào  [🔊](https://forvo.com/word/%E5%AD%A6%E6%A0%A1/#zh) |
+| 你  (nǐ)  | ní        [🔊 你](https://forvo.com/word/%E4%BD%A0/)  | 需要  (xū yào)| shiú-yáo  [🔊 需要](https://forvo.com/word/%E9%9C%80%E8%A6%81/) | 小 (xiǎo) | shiáo  [🔊](https://forvo.com/word/小/#zh) |  工作 | gōng-zuò  [🔊](https://forvo.com/word/%E5%B7%A5%E4%BD%9C/#zh) |
+| 他  (tā)  | tá       [🔊 他](https://forvo.com/word/%E4%BB%96/) | 应该 (yīng gāi) | íng-gái   [🔊 应该](https://forvo.com/word/%E5%BA%94%E8%AF%A5/)  | 快 (kuài) | kuái  [🔊](https://forvo.com/word/快/#zh) |  家 | jiā | [🔊](https://forvo.com/word/%E5%AE%B6/#zh) |
+| 她  (tā)  | tá        [🔊 她](https://forvo.com/word/%E5%A5%B9/)  | 得 (dé、děi、de)   | déi       [🔊 得](https://forvo.com/word/%E5%BE%97/) | 慢 (màn) | mán  [🔊](https://forvo.com/word/慢/#zh) |  超市 | chāo-shì  [🔊](https://forvo.com/word/%E8%B6%85%E5%B8%82/#zh) |
+| 我们  (wǒmen) | uó-men    [🔊 我们](https://forvo.com/word/%E6%88%91%E4%BB%AC/)   | 可以  (kě yǐ)| kó-yi     [🔊 可以](https://forvo.com/word/%E5%8F%AF%E4%BB%A5/) |||  公园 | gōng-yuán  [🔊](https://forvo.com/word/%E5%85%AC%E5%9B%AD/#zh) |
+| 你们 (nǐmen)| ní-men    [🔊 你们](https://forvo.com/word/%E4%BD%A0%E4%BB%AC/) | ||||  医院 (yī yuàn)| yī-yuàn  [🔊](https://forvo.com/word/%E5%8C%BB%E9%99%A2/#zh) |
 | 他们  (tāmen)| tá-men    [🔊 他们](https://forvo.com/word/%E4%BB%96%E4%BB%AC/) |||||
 
 
