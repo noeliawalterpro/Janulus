@@ -343,8 +343,11 @@ Fonética: il duáv aprãdr
 
 # 🇩🇪 Alemán
 Complemento de tiempo (heute, morgen, gestern)
+
 heute (hóite) "hoy"  [🔊 heute](https://forvo.com/word/heute/) 
+
 morgen (mórguen) "mañana" [🔊 morgen](https://forvo.com/word/morgen/) 
+
 gestern (géstern) "ayer" [🔊 gestern ](https://forvo.com/word/gestern/) 
 
 | Pronombres | Fonética |  verbos | Fonética | Adjetivos |  Fonética   |   Lugares| Fonética |
