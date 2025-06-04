@@ -42,6 +42,11 @@ Link to pronunciation on Forvo (when available)
 | pequeño | 小 (xiǎo) | shiáo | [🔊](https://forvo.com/word/小/#zh) |
 | rápido | 快 (kuài) | kuái | [🔊](https://forvo.com/word/快/#zh) |
 | lento | 慢 (màn) | mán | [🔊](https://forvo.com/word/慢/#zh) |
+Regla de conjugación: En chino los verbos no se conjugan;
+
+
+
+Regla de conjugación: Verbos en -ar. Se elimina -ar y se añade:
 
 ### Frases simples en chino
 
@@ -101,6 +106,25 @@ Fonética: tá-men ín-gái shué-shí
 | rápido | rápido | rá-pi-du | [🔊](https://forvo.com/word/rápido/#pt) |
 | lento | lento | lén-tu | [🔊](https://forvo.com/word/lento/#pt) |
 
+
+Portugués – Conjugación de verbos comunes
+Verbo: ser (ser permanente)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+eu	sou	sôu	🔊
+tu	és	és	🔊
+ele/ela	é	é	🔊
+nós	somos	sô-mos	🔊
+vós	sois	sóis	🔊
+eles/elas	são	sâo	🔊
+
+Verbo: estar (ser temporal)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+eu	estou	es-tôu	🔊
+tu	estás	es-tás	🔊
+ele/ela	está	es-tá	🔊
+nós	estamos	es-tá-mos	🔊
+vós	estais	es-táis	🔊
+eles/elas	estão	es-tâo	🔊
 ### Frases simples en portugués
 
 **Eu trabalho muito.**  
@@ -160,6 +184,40 @@ Fonética: é-les dé-vem a-pren-der
 | rápido | rapide | ra-píd | [🔊](https://forvo.com/word/rapide/#fr) |
 | lento | lent | lán | [🔊](https://forvo.com/word/lent/#fr) |
 
+Francés – Conjugación de verbos comunes
+Verbo: être (ser/estar)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+je	suis	süí	🔊
+tu	es	é	🔊
+il/elle	est	é	🔊
+nous	sommes	sóm	🔊
+vous	êtes	ét	🔊
+ils/elles	sont	són	🔊
+
+Verbo: avoir (tener)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+je	ai	é	🔊
+tu	as	á	🔊
+il/elle	a	á	🔊
+nous	avons	avón	🔊
+vous	avez	avé	🔊
+ils/elles	ont	ón	🔊
+
+
+Regla de conjugación: Verbos en -er. Se elimina -er y se añade:
+-e, -es, -e, -ons, -ez, -ent.
+
+je → travaille (travailler)
+
+tu → travailles
+
+il/elle/on → travaille
+
+nous → travaillons
+
+vous → travaillez
+
+ils/elles → travaillent
 
 ### Frases simples en francés
 
@@ -221,6 +279,42 @@ Fonética: il duáv aprãdr
 | rápido | schnell | shnel | [🔊](https://forvo.com/word/schnell/#de) |
 | lento | langsam | lán-zam | [🔊](https://forvo.com/word/langsam/#de) |
 
+
+Regla de conjugación: El verbo termina en -en. Se elimina -en y se añade la terminación personal:
+-e, -est, -et, -en, -et, -en.
+
+ich → arbeite (arbeiten)
+
+du → arbeitest
+
+er/sie/es → arbeitet
+
+wir → arbeiten
+
+ihr → arbeitet
+
+sie/Sie → arbeiten
+
+
+
+Alemán – Conjugación de verbos comunes
+Verbo: sein (ser/estar)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+ich	bin	bin	🔊
+du	bist	bist	🔊
+er/sie/es	ist	ist	🔊
+wir	sind	zint	🔊
+ihr	seid	zait	🔊
+sie/Sie	sind	zint	🔊
+
+Verbo: haben (tener)
+Pronombre	Verbo conjugado	Fonética en español	🔊 Audio en Forvo
+ich	habe	há-be	🔊
+du	hast	hast	🔊
+er/sie/es	hat	hat	🔊
+wir	haben	há-ben	🔊
+ihr	habt	habt	🔊
+sie/Sie	haben	há-ben	🔊
 
 ### Frases simples en alemán
 
