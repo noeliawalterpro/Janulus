@@ -121,7 +121,7 @@ Fonética: tá-men ín-gái shué-shí
  | ela       | é-la     [🔊 ela](https://forvo.com/word/ela/) |ter que   | tér-que    [🔊 ter que](https://forvo.com/word/ter_que/) |lento | lén-tu  [🔊](https://forvo.com/word/lento/#pt) |supermercado | su-per-mer-ka-du | [🔊](https://forvo.com/word/supermercado/#pt) |
 | nós | nôs       [🔊 nós](https://forvo.com/word/nós/) |  poder     | po-dér    [🔊 poder](https://forvo.com/word/poder/) |||parque | par-ki | [🔊](https://forvo.com/word/parque/#pt) |
 | vocês | voséis    [🔊 vocês](https://forvo.com/word/voc%C3%AAs/) | || hospital | os-pi-tal | [🔊](https://forvo.com/word/hospital/#pt) |
-| eles | é-les     [🔊 eles](https://forvo.com/word/eles/) |||||||
+| eles | é-les     [🔊 eles](https://forvo.com/word/eles/) |||||yúshí|[🔊](https://dictionary.hantrainerpro.com/chinese-english/translation-yushi_bathroom.html)|
 
 
 Complemento de tiempo (hoje, amanhã, ontem)
@@ -359,7 +359,7 @@ gestern (géstern) "ayer" [🔊 gestern ](https://forvo.com/word/gestern/)
 | sie    | síe       [🔊 sie](https://forvo.com/word/sie/) |müssen | miú-sen     [🔊 müssen](https://forvo.com/word/müssen/) |langsam | lán-zam  [🔊](https://forvo.com/word/langsam/#de) |Supermarkt | zú-per-markt [🔊](https://forvo.com/word/supermarkt/#de) |
 | wir    | vír       [🔊 wir](https://forvo.com/word/wir/) | dürfen | dûr-fen     [🔊 dürfen](https://forvo.com/word/dürfen/) |||Park | park  [🔊](https://forvo.com/word/park/#de) |
 | ihr    | íar       [🔊 ihr](https://forvo.com/word/ihr/) || | ||Krankenhaus | kran-ken-haus  [🔊](https://forvo.com/word/krankenhaus/#de) |
-| sie    | síe       [🔊 sie](https://forvo.com/word/sie/) |||||||||
+| sie    | síe       [🔊 sie](https://forvo.com/word/sie/) ||||||| Badezimmer|[🔊](https://es.forvo.com/word/badezimmer)|
 ## Pronombres Personales
 
 | Español   | Alemán | Fonética | Pronunciación Forvo |
@@ -402,6 +402,7 @@ gestern (géstern) "ayer" [🔊 gestern ](https://forvo.com/word/gestern/)
 | supermercado | Supermarkt | zú-per-markt | [🔊](https://forvo.com/word/supermarkt/#de) |
 | parque | Park | park | [🔊](https://forvo.com/word/park/#de) |
 | hospital | Krankenhaus | kran-ken-haus | [🔊](https://forvo.com/word/krankenhaus/#de) |
+| baño |Badezimmer ||[🔊](https://es.forvo.com/word/badezimmer)|
 
 Regla de conjugación: El verbo termina en -en. Se elimina -en y se añade la terminación personal:
 -e, -est, -et, -en, -et, -en.
